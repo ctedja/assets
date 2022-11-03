@@ -2,7 +2,7 @@
     "data": [
         {
             "Country": "Bangladesh",
-            "Title": "Bangladesh",
+            "DAA": "Bangladesh",
             "Category": "Dashboards\/Maps\/Infographics",
             "Date": 1654473600000,
             "Link": "https:\/\/reliefweb.int\/map\/bangladesh\/bangladesh-ets-refugee-crisis-may-2022",
@@ -10,7 +10,7 @@
         },
         {
             "Country": "Bangladesh",
-            "Title": "Titlesss",
+            "DAA": "Titlesss",
             "Category": "Situation Report",
             "Date": 1654473600000,
             "Link": "https:\/\/www.etcluster.org\/document\/ets-bangladesh-situation-report-may-2022",
